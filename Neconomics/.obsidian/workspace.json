@@ -1,0 +1,207 @@
+{
+  "main": {
+    "id": "76aa8208d1a6cf7b",
+    "type": "split",
+    "children": [
+      {
+        "id": "28caa9d39d21c127",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1407656276daf6ee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Welcome - Dream Starts here.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Welcome - Dream Starts here"
+            },
+            "group": "d55d317b684d7fb4"
+          }
+        ]
+      },
+      {
+        "id": "35a4577cd88b5d0a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "42785f5070c65ee4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Welcome - Dream Starts here.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Welcome - Dream Starts here"
+            },
+            "group": "d55d317b684d7fb4"
+          },
+          {
+            "id": "6a025acce83dab0a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Welcome - Dream Starts here.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Welcome - Dream Starts here"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "85c09aebe3ad2c0f",
+    "type": "split",
+    "children": [
+      {
+        "id": "d923c144dbb8b004",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cc4178d8d8b5384c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTimeReverse"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "df659216b7737877",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "42a128999b7974ac",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "417faa22b4f9d85d",
+    "type": "split",
+    "children": [
+      {
+        "id": "717bde7d93b44341",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "67123c6a0d37e4cc",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": true,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": true,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "720d3d13727c9fdf",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "0a67c6d891f3ea7a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "0f891e40562db35f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Welcome - Dream Starts here.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Welcome - Dream Starts here"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 248.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "cc4178d8d8b5384c",
+  "lastOpenFiles": [
+    "Welcome - Dream Starts here.md",
+    "Economics",
+    "Economics/Economics.md",
+    "Untitled.canvas"
+  ]
+}
