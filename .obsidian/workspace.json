@@ -20,6 +20,16 @@
               "icon": "lucide-file",
               "title": "实数的公理化描述19"
             }
+          },
+          {
+            "id": "e94aa7d76976e021",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
         ]
       }
@@ -77,7 +87,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 238.5
   },
   "right": {
     "id": "dbb5f9604149460a",
@@ -160,7 +170,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -175,11 +186,12 @@
   },
   "active": "75d66bdc50ade3b1",
   "lastOpenFiles": [
-    "Neconomics/Math/Analysis/Basic Definition/R.md",
+    "Neconomics/Math/Analysis/数学分析之课程讲义(丘成桐数学英才班试⽤)/数学分析之课程讲义(丘成桐数学英才班试⽤).md",
     "Neconomics/Math/Analysis/数学分析之课程讲义(丘成桐数学英才班试⽤)/实数的公理化描述19.md",
+    "Neconomics/Math/Analysis/Basic Definition/natural number.md",
+    "Neconomics/Math/Analysis/Basic Definition/R.md",
     "Neconomics/Math/Analysis/Basic Definition",
     "Neconomics/Aha! Welcome - Dream Starts here.md",
-    "Neconomics/Math/Analysis/数学分析之课程讲义(丘成桐数学英才班试⽤)/数学分析之课程讲义(丘成桐数学英才班试⽤).md",
     "Neconomics/Math/Analysis/Analysis.md",
     "Neconomics/Math/Analysis/数学分析之课程讲义(丘成桐数学英才班试⽤)",
     "Neconomics/Math/Analysis",
