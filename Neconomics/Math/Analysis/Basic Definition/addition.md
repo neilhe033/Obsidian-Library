@@ -1,0 +1,1 @@
+$+ : \mathbb{R} \times \mathbb{R} \to \mathbb{R},\quad (x, y) \mapsto x + y$
