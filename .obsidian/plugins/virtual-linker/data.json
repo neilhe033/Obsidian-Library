@@ -21,7 +21,7 @@
   "useDefaultLinkStyleForConversion": true,
   "applyDefaultLinkStyling": true,
   "includeHeaders": true,
-  "matchCaseSensitive": false,
+  "matchCaseSensitive": true,
   "capitalLetterProportionForAutomaticMatchCase": 0.75,
   "tagToIgnoreCase": "linker-ignore-case",
   "tagToMatchCase": "linker-match-case",
@@ -32,7 +32,7 @@
   "excludeLinksToOwnNote": true,
   "fixIMEProblem": false,
   "excludeLinksInCurrentLine": false,
-  "onlyLinkOnce": true,
+  "onlyLinkOnce": false,
   "excludeLinksToRealLinkedFiles": true,
   "includeAliases": true,
   "alwaysShowMultipleReferences": true
