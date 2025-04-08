@@ -35,5 +35,5 @@
   "onlyLinkOnce": true,
   "excludeLinksToRealLinkedFiles": true,
   "includeAliases": true,
-  "alwaysShowMultipleReferences": false
+  "alwaysShowMultipleReferences": true
 }
