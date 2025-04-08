@@ -2,6 +2,15 @@
   "insert-template": [
     {
       "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "T"
+    }
+  ],
+  "workspace:new-tab": [
+    {
+      "modifiers": [
         "Mod"
       ],
       "key": "T"
