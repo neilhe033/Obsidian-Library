@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Neconomics/Math/Analysis/Basic Definition/R.md",
+                "file": "Neconomics/Math/Analysis/数学分析之课程讲义(丘成桐数学英才班试⽤)/实数的公理化描述19.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "R"
+              "title": "实数的公理化描述19"
             }
           }
         ]
@@ -140,13 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Neconomics/Math/Analysis/Basic Definition/R.md",
+                "file": "Neconomics/Math/Analysis/数学分析之课程讲义(丘成桐数学英才班试⽤)/实数的公理化描述19.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of R"
+              "title": "Outline of 实数的公理化描述19"
             }
           },
           {
@@ -180,8 +180,8 @@
   },
   "active": "75d66bdc50ade3b1",
   "lastOpenFiles": [
-    "Neconomics/Math/Analysis/数学分析之课程讲义(丘成桐数学英才班试⽤)/实数的公理化描述19.md",
     "Neconomics/Math/Analysis/Basic Definition/R.md",
+    "Neconomics/Math/Analysis/数学分析之课程讲义(丘成桐数学英才班试⽤)/实数的公理化描述19.md",
     "Neconomics/Math/Analysis/Basic Definition/subsets of R.md",
     "Neconomics/Aha! Welcome - Dream Starts here.md",
     "Neconomics/Math/Analysis/Basic Definition/addition.md",
