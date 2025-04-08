@@ -1,9 +1,5 @@
 [
   "obsidian-git",
-  "obsidian-annotator",
-  "obsidian-zotero-desktop-connector",
-  "obsidian-mind-map",
-  "obsidian-latex-suite",
-  "quick-latex",
-  "obsidian-minimal-settings"
+  "obsidian-auto-link-title",
+  "obsidian-linter"
 ]
