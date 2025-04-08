@@ -20,6 +20,16 @@
               "icon": "lucide-file",
               "title": "实数的公理化描述19"
             }
+          },
+          {
+            "id": "81c070c3df28cd9a",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
         ]
       }
@@ -180,15 +190,15 @@
   },
   "active": "75d66bdc50ade3b1",
   "lastOpenFiles": [
-    "Neconomics/Math/Analysis/Basic Definition/set.md",
     "Neconomics/Math/Analysis/数学分析之课程讲义(丘成桐数学英才班试⽤)/实数的公理化描述19.md",
+    "Neconomics/Math/Analysis/Basic Definition/subsets of R.md",
+    "Neconomics/Math/Analysis/Basic Definition/set.md",
     "Templates/lemma.md",
     "Templates/example.md",
     "Templates/theorem.md",
     "Templates/definition.md",
     "Templates",
     "Neconomics/Math/Analysis/Basic Definition/natural number.md",
-    "Neconomics/Math/Analysis/Basic Definition/subsets of R.md",
     "Neconomics/Math/Analysis/Analysis.md",
     "Neconomics/Economics/Micro Theory.md",
     "Neconomics/Aha! Welcome - Dream Starts here.md",

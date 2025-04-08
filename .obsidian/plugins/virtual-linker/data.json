@@ -2,14 +2,16 @@
   "advancedSettings": true,
   "linkerActivated": true,
   "matchAnyPartsOfWords": false,
-  "matchEndOfWords": true,
-  "matchBeginningOfWords": true,
+  "matchEndOfWords": false,
+  "matchBeginningOfWords": false,
   "suppressSuffixForSubWords": false,
   "includeAllFiles": true,
   "linkerDirectories": [
     "Glossary"
   ],
-  "excludedDirectories": [],
+  "excludedDirectories": [
+    "Templates"
+  ],
   "excludedDirectoriesForLinking": [],
   "virtualLinkSuffix": "🔗",
   "virtualLinkAliasSuffix": "🔗",
