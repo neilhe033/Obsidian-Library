@@ -13,22 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Neconomics/Math/Analysis/数学分析之课程讲义(丘成桐数学英才班试⽤)/实数的公理化描述19.md",
+                "file": "Neconomics/Economics/Micro Theory.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "实数的公理化描述19"
-            }
-          },
-          {
-            "id": "e94aa7d76976e021",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Micro Theory"
             }
           }
         ]
@@ -88,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300
   },
   "right": {
     "id": "dbb5f9604149460a",
@@ -104,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Neconomics/Economics/Economics.md",
+                "file": "Neconomics/Welcome - Dream Starts here.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Economics"
+              "title": "Backlinks for Welcome - Dream Starts here"
             }
           },
           {
@@ -123,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Neconomics/Economics/Economics.md",
+                "file": "Neconomics/Welcome - Dream Starts here.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Economics"
+              "title": "Outgoing links from Welcome - Dream Starts here"
             }
           },
           {
@@ -150,10 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Neconomics/Economics/Economics.md"
+                "file": "Neconomics/Economics/Micro Theory.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Economics"
+              "title": "Outline of Micro Theory"
             }
           },
           {
@@ -167,12 +160,11 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -185,23 +177,24 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "75d66bdc50ade3b1",
+  "active": "def785365080ca89",
   "lastOpenFiles": [
-    "Neconomics/Math/Analysis/Basic Definition/Archimedean Axiom.md",
-    "Neconomics/Math/Analysis/数学分析之课程讲义(丘成桐数学英才班试⽤)/实数的公理化描述19.md",
-    "subsets of R.md",
-    "Neconomics/Math/Analysis/Basic Definition/intervals.md",
-    "Neconomics/Math/Analysis/数学分析之课程讲义(丘成桐数学英才班试⽤)/数学分析之课程讲义(丘成桐数学英才班试⽤).md",
-    "Neconomics/Math/Analysis/Basic Definition/natural number.md",
-    "Neconomics/Math/Analysis/Basic Definition/R.md",
-    "Neconomics/Math/Analysis/Basic Definition",
     "Neconomics/Aha! Welcome - Dream Starts here.md",
-    "Neconomics/Math/Analysis/Analysis.md",
+    "subsets of R.md",
+    "Neconomics/Math/Analysis/数学分析之课程讲义(丘成桐数学英才班试⽤)/数学分析之课程讲义(丘成桐数学英才班试⽤).md",
+    "Neconomics/Math/Analysis/数学分析之课程讲义(丘成桐数学英才班试⽤)/实数的公理化描述19.md",
+    "Neconomics/Math/Analysis/Basic Definition/R.md",
+    "Neconomics/Math/Analysis/Basic Definition/natural number.md",
+    "Neconomics/Math/Analysis/Basic Definition/intervals.md",
+    "Neconomics/Math/Analysis/Basic Definition/Archimedean Axiom.md",
     "Neconomics/Math/Analysis/数学分析之课程讲义(丘成桐数学英才班试⽤)",
+    "Neconomics/Math/Analysis/Basic Definition",
+    "Neconomics/Math/Analysis/Analysis.md",
     "Neconomics/Math/Analysis",
-    "Neconomics/Economics/Micro Theory.md",
-    "Neconomics/Math.md",
     "Neconomics/Math",
+    "Neconomics/Economics/Micro Theory.md",
+    "Neconomics/Economics",
+    "Neconomics/Welcome - Dream Starts here.md",
     "Neconomics/Economics/Economics.md"
   ]
 }
