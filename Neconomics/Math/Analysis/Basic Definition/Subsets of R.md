@@ -1,3 +1,6 @@
+---
+aliases: ["Subsets of R", "Subset of R", "ℝ subsets", "Real subsets"]
+---
 > - $\mathbb{R}_{>0}$: Positive real numbers.
 > - $\mathbb{R}_{\geq0}$: Nonnegative real numbers.
 > - $\mathbb{R}_{<0}$: Negative real numbers.
