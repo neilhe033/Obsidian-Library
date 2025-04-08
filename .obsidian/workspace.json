@@ -178,10 +178,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "1f00c1f945abb4fa",
+  "active": "75d66bdc50ade3b1",
   "lastOpenFiles": [
-    "Templates/Definition.md.md",
+    "Neconomics/Math/Analysis/Basic Definition/set.md",
     "Neconomics/Math/Analysis/数学分析之课程讲义(丘成桐数学英才班试⽤)/实数的公理化描述19.md",
+    "Templates/lemma.md",
+    "Templates/example.md",
+    "Templates/theorem.md",
+    "Templates/definition.md",
     "Templates",
     "Neconomics/Math/Analysis/Basic Definition/natural number.md",
     "Neconomics/Math/Analysis/Basic Definition/subsets of R.md",

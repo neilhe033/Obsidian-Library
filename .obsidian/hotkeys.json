@@ -1,16 +1,16 @@
 {
-  "insert-template": [
+  "workspace:new-tab": [
     {
       "modifiers": [
-        "Alt",
         "Mod"
       ],
       "key": "T"
     }
   ],
-  "workspace:new-tab": [
+  "templater-obsidian:insert-templater": [
     {
       "modifiers": [
+        "Alt",
         "Mod"
       ],
       "key": "T"
