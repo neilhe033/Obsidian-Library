@@ -13,22 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Neconomics/Math/Analysis/数学分析之课程讲义(丘成桐数学英才班试⽤)/实数的公理化描述19.md",
+                "file": "Neconomics/Math/Analysis/Basic Definition/R.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "实数的公理化描述19"
-            }
-          },
-          {
-            "id": "81c070c3df28cd9a",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "title": "R"
             }
           }
         ]
@@ -150,13 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Neconomics/Math/Analysis/数学分析之课程讲义(丘成桐数学英才班试⽤)/实数的公理化描述19.md",
+                "file": "Neconomics/Math/Analysis/Basic Definition/R.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 实数的公理化描述19"
+              "title": "Outline of R"
             }
           },
           {
@@ -190,13 +180,13 @@
   },
   "active": "75d66bdc50ade3b1",
   "lastOpenFiles": [
-    "Neconomics/Math/Analysis/Basic Definition/subsets of R.md",
     "Neconomics/Math/Analysis/数学分析之课程讲义(丘成桐数学英才班试⽤)/实数的公理化描述19.md",
+    "Neconomics/Math/Analysis/Basic Definition/R.md",
+    "Neconomics/Math/Analysis/Basic Definition/subsets of R.md",
     "Neconomics/Aha! Welcome - Dream Starts here.md",
     "Neconomics/Math/Analysis/Basic Definition/addition.md",
     "Neconomics/Math/Analysis/Basic Definition/intervals.md",
     "Neconomics/Math/Analysis/Basic Definition/natural number.md",
-    "Neconomics/Math/Analysis/Basic Definition/R.md",
     "Neconomics/Math/Analysis/Basic Definition/rational numbers.md",
     "Neconomics/Math/Analysis/Basic Definition/Transitivity.md",
     "Neconomics/Math/Analysis/Basic Definition/set.md",
