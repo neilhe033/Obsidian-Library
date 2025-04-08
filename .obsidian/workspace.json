@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Neconomics/Math/Analysis/Basic Definition/Transitivity.md",
+                "file": "Neconomics/Math/Analysis/数学分析之课程讲义(丘成桐数学英才班试⽤)/2区间套公理与确界原理，距离空间.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Transitivity"
+              "title": "2区间套公理与确界原理，距离空间"
             }
           },
           {
@@ -150,13 +150,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Neconomics/Math/Analysis/Basic Definition/Transitivity.md",
+                "file": "Neconomics/Math/Analysis/数学分析之课程讲义(丘成桐数学英才班试⽤)/2区间套公理与确界原理，距离空间.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Transitivity"
+              "title": "Outline of 2区间套公理与确界原理，距离空间"
             }
           },
           {
@@ -191,6 +191,8 @@
   "active": "75d66bdc50ade3b1",
   "lastOpenFiles": [
     "Neconomics/Math/Analysis/数学分析之课程讲义(丘成桐数学英才班试⽤)/1实数的公理化描述.md",
+    "Neconomics/Math/Analysis/Basic Definition/Order Axioms.md",
+    "Neconomics/Math/Analysis/Basic Definition/Transitivity.md",
     "Neconomics/Math/Analysis/数学分析之课程讲义(丘成桐数学英才班试⽤)/2区间套公理与确界原理，距离空间.md",
     "Neconomics/Math/Analysis/Basic Definition/length.md",
     "Neconomics/Math/Analysis/Basic Definition/Vector Space over a Field.md",
@@ -204,7 +206,6 @@
     "Neconomics/Math/Analysis/Basic Definition/Multiplication.md",
     "Neconomics/Math/Analysis/Basic Definition/Extended intervals.md",
     "Neconomics/Math/Analysis/Basic Definition/R.md",
-    "Neconomics/Math/Analysis/Basic Definition/Order Axioms.md",
     "Neconomics/Math/Analysis/Basic Definition/addition.md",
     "Neconomics/Math/Analysis/Basic Definition/Interval Nesting Axiom.md",
     "Neconomics/Math/Analysis/Basic Definition/intervals.md",
@@ -214,7 +215,6 @@
     "Neconomics/Aha! Welcome - Dream Starts here.md",
     "Neconomics/Math/Analysis/Basic Definition/natural number.md",
     "Neconomics/Math/Analysis/Basic Definition/rational numbers.md",
-    "Neconomics/Math/Analysis/Basic Definition/Transitivity.md",
     "Neconomics/Math/Analysis/Basic Definition/set.md",
     "Neconomics/Math/Analysis/Analysis.md",
     "Templates",
