@@ -1,5 +1,7 @@
 [
   "obsidian-git",
-  "obsidian-auto-link-title",
-  "obsidian-linter"
+  "obsidian-linter",
+  "virtual-linker",
+  "templater-obsidian",
+  "metadata-menu"
 ]
