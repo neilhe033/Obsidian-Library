@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Neconomics/Economics/Micro Theory.md",
+                "file": "Neconomics/Math/Analysis/数学分析之课程讲义(丘成桐数学英才班试⽤)/实数的公理化描述19.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Micro Theory"
+              "title": "实数的公理化描述19"
             }
           }
         ]
@@ -140,13 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Neconomics/Economics/Micro Theory.md",
+                "file": "Neconomics/Math/Analysis/数学分析之课程讲义(丘成桐数学英才班试⽤)/实数的公理化描述19.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Micro Theory"
+              "title": "Outline of 实数的公理化描述19"
             }
           },
           {
@@ -177,22 +177,22 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "def785365080ca89",
+  "active": "75d66bdc50ade3b1",
   "lastOpenFiles": [
-    "Neconomics/Aha! Welcome - Dream Starts here.md",
-    "subsets of R.md",
-    "Neconomics/Math/Analysis/数学分析之课程讲义(丘成桐数学英才班试⽤)/数学分析之课程讲义(丘成桐数学英才班试⽤).md",
+    "Neconomics/Math/Analysis/Basic Definition/subsets of R.md",
     "Neconomics/Math/Analysis/数学分析之课程讲义(丘成桐数学英才班试⽤)/实数的公理化描述19.md",
+    "Neconomics/Math/Analysis/Analysis.md",
+    "Neconomics/Economics/Micro Theory.md",
+    "Neconomics/Aha! Welcome - Dream Starts here.md",
+    "Neconomics/Math/Analysis/数学分析之课程讲义(丘成桐数学英才班试⽤)/数学分析之课程讲义(丘成桐数学英才班试⽤).md",
     "Neconomics/Math/Analysis/Basic Definition/R.md",
     "Neconomics/Math/Analysis/Basic Definition/natural number.md",
     "Neconomics/Math/Analysis/Basic Definition/intervals.md",
     "Neconomics/Math/Analysis/Basic Definition/Archimedean Axiom.md",
     "Neconomics/Math/Analysis/数学分析之课程讲义(丘成桐数学英才班试⽤)",
     "Neconomics/Math/Analysis/Basic Definition",
-    "Neconomics/Math/Analysis/Analysis.md",
     "Neconomics/Math/Analysis",
     "Neconomics/Math",
-    "Neconomics/Economics/Micro Theory.md",
     "Neconomics/Economics",
     "Neconomics/Welcome - Dream Starts here.md",
     "Neconomics/Economics/Economics.md"
