@@ -2,7 +2,7 @@
 > 
 > An element of $R^n$ is thus a n-tuple, and is written
 $$
- (x1,x2,…,xn)!
+ (x_1,x_2,…,x_n)!
 $$ where each $x_{i}$ is a real number.
 
 \- Wikipedia
