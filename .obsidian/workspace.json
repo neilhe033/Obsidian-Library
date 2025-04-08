@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Neconomics/Math/Analysis/数学分析之课程讲义(丘成桐数学英才班试⽤)/实数的公理化描述19.md",
+                "file": "Neconomics/Math/Analysis/Basic Definition/rational numbers.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "实数的公理化描述19"
+              "title": "rational numbers"
             }
           },
           {
@@ -150,13 +150,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Neconomics/Math/Analysis/数学分析之课程讲义(丘成桐数学英才班试⽤)/实数的公理化描述19.md",
+                "file": "Neconomics/Math/Analysis/Basic Definition/rational numbers.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 实数的公理化描述19"
+              "title": "Outline of rational numbers"
             }
           },
           {
@@ -188,10 +188,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "75d66bdc50ade3b1",
+  "active": "1f00c1f945abb4fa",
   "lastOpenFiles": [
-    "Neconomics/Math/Analysis/Basic Definition/archimedean axiom.md",
     "Neconomics/Math/Analysis/数学分析之课程讲义(丘成桐数学英才班试⽤)/实数的公理化描述19.md",
+    "Neconomics/Math/Analysis/Basic Definition/rational numbers.md",
+    "Neconomics/Math/Analysis/Basic Definition/Archimedean Axiom.md",
     "Neconomics/Math/Analysis/Basic Definition/natural number.md",
     "Neconomics/Math/Analysis/Basic Definition/subsets of R.md",
     "Neconomics/Math/Analysis/Basic Definition/set.md",

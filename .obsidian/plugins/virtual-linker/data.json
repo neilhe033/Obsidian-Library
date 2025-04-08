@@ -33,7 +33,7 @@
   "fixIMEProblem": false,
   "excludeLinksInCurrentLine": false,
   "onlyLinkOnce": false,
-  "excludeLinksToRealLinkedFiles": true,
+  "excludeLinksToRealLinkedFiles": false,
   "includeAliases": true,
   "alwaysShowMultipleReferences": true
 }
