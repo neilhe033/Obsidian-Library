@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Transitivity.md",
+                "file": "Neconomics/Math/Analysis/数学分析之课程讲义(丘成桐数学英才班试⽤)/实数的公理化描述19.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Transitivity"
+              "title": "实数的公理化描述19"
             }
           },
           {
@@ -150,13 +150,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Transitivity.md",
+                "file": "Neconomics/Math/Analysis/数学分析之课程讲义(丘成桐数学英才班试⽤)/实数的公理化描述19.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Transitivity"
+              "title": "Outline of 实数的公理化描述19"
             }
           },
           {
@@ -190,8 +190,10 @@
   },
   "active": "75d66bdc50ade3b1",
   "lastOpenFiles": [
+    "Neconomics/Math/Analysis/Basic Definition/intervals.md",
+    "Neconomics/Math/Analysis/Basic Definition/addition.md",
     "Neconomics/Math/Analysis/数学分析之课程讲义(丘成桐数学英才班试⽤)/实数的公理化描述19.md",
-    "Transitivity.md",
+    "Neconomics/Math/Analysis/Basic Definition/Transitivity.md",
     "Neconomics/Math/Analysis/Basic Definition/rational numbers.md",
     "Neconomics/Math/Analysis/Basic Definition/Archimedean Axiom.md",
     "Neconomics/Math/Analysis/Basic Definition/natural number.md",
@@ -209,7 +211,6 @@
     "Templates",
     "Neconomics/Economics/Micro Theory.md",
     "Neconomics/Aha! Welcome - Dream Starts here.md",
-    "Neconomics/Math/Analysis/Basic Definition/intervals.md",
     "Neconomics/Math/Analysis/数学分析之课程讲义(丘成桐数学英才班试⽤)",
     "Neconomics/Math/Analysis/Basic Definition",
     "Neconomics/Math/Analysis",
